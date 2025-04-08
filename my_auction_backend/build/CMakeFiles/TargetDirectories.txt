@@ -1,0 +1,3 @@
+/Users/sdas/auction3313/my_auction_backend/build/CMakeFiles/my_auction_backend.dir
+/Users/sdas/auction3313/my_auction_backend/build/CMakeFiles/edit_cache.dir
+/Users/sdas/auction3313/my_auction_backend/build/CMakeFiles/rebuild_cache.dir

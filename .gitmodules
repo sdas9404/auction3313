@@ -1,0 +1,3 @@
+[submodule "my_auction_backend/third_party/crow"]
+	path = my_auction_backend/third_party/crow
+	url = https://github.com/CrowCpp/Crow.git
